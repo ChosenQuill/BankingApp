@@ -1,0 +1,36 @@
+{
+  "name": "next13-typescript-starter",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "dev-turbo": "next dev --turbo",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@mantine/carousel": "^7.2.2",
+    "@mantine/core": "^7.2.2",
+    "@mantine/form": "^7.2.2",
+    "@mantine/hooks": "^7.2.2",
+    "@mantine/modals": "^7.2.2",
+    "@mantine/notifications": "^7.2.2",
+    "@mantine/nprogress": "^7.2.2",
+    "@mantine/spotlight": "^7.2.2",
+    "@tabler/icons-react": "^2.42.0",
+    "@types/node": "18.11.9",
+    "@types/react": "18.0.25",
+    "@types/react-dom": "18.0.9",
+    "embla-carousel-react": "^7.1.0",
+    "firebase": "^10.4.0",
+    "firebase-admin": "^11.10.1",
+    "next": "^14.0.1",
+    "next-firebase-auth-edge": "0.10.0-2",
+    "postcss-preset-mantine": "^1.11.0",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "react-loading-hook": "^1.0.0",
+    "typescript": "5.2.2"
+  }
+}
